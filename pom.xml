@@ -59,7 +59,7 @@
     </snapshotRepository>
     <repository>
       <id>nexus</id>
-      <url>http://34.121.10.13:8081/nexus/content/repositories/releases</url>
+      <url>http://http://35.200.229.244:8081/nexus/content/repositories/releases</url>
     </repository>
   </distributionManagement>
   
